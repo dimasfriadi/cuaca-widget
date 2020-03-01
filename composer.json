@@ -1,0 +1,9 @@
+{
+    "name": "dimasfriadi/widget-cuaca",
+    "description": "Widget untuk menampilkan cuaca di suatu kota",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.30",
+        "tcdent/php-restclient": "^0.1.7"
+    }
+}
